@@ -1,12 +1,7 @@
-import "./App.css";
-import Button from "./component/Button";
-
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Button>Test</Button>
-      </header>
+      <h1>eslint initialiation</h1>
     </div>
   );
 }
