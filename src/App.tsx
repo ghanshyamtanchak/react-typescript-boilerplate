@@ -1,9 +1,3 @@
-function App() {
-  return (
-    <div className="App">
-      <h1>eslint initialiation</h1>
-    </div>
-  );
-}
+const App = () => <div className="App" />;
 
 export default App;
